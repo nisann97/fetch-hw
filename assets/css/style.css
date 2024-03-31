@@ -1,0 +1,17 @@
+
+
+
+.fa-solid{
+
+    font-size: 23px;
+    color: blue;
+    vertical-align: center;
+    text-align: center;
+    cursor: pointer;
+    transition: all 0.3s ease-in-out;
+}
+
+.fa-solid:hover{
+opacity: 0.8;
+font-size: 25px;
+}
